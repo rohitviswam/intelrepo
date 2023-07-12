@@ -8,5 +8,5 @@ Social Distancing project using Computer Vision and Deep Learning
 ![Output avi gif](https://github.com/rohitviswam/Intel_unnati_Social-Distancing/blob/main/Social%20Distancing%20Project/outputs/exampleoutput.gif)
 
 ### The output obtained using OpenVINO Optimisation is :
-![Output avi gif]
+![Output avi gif](https://github.com/rohitviswam/Intel_unnati_Social-Distancing/blob/main/Optimised%20Project/sample_bbox.gif)
 
