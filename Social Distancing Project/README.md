@@ -20,8 +20,8 @@ Social Distancing project using Computer Vision and Deep Learning
 
 #### After you run the last line of command,a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory that is the Final output.
 
-### Input File :
-![Output avi gif]()
+### Output File 1 :
+![Output avi gif](https://github.com/rohitviswam/Intel_unnati_Social-Distancing/blob/main/Social%20Distancing%20Project/outputs/exampleoutput.gif)
 
-### Output File :
+### Output File 2 :
 ![Output avi gif]()
