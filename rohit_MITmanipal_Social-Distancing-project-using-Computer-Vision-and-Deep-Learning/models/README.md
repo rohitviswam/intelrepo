@@ -5,4 +5,4 @@
 * Download it & move to yolo-coco folder
 
 ### OpenVINO Model :
-#### The Path to the OpenVINO Model is in [My GitHub](https://github.com/rohitviswam/Intel_unnati_Social-Distancing/tree/main/Optimised%20Project/model/person-detection-0202/FP16-INT8). The Model Used is person-detection-0202 from OpenVINO.
+#### The Path to the OpenVINO Model is in [My GitHub](https://github.com/rohitviswam/intelrepo/tree/main/rohit_MITmanipal_Social-Distancing-project-using-Computer-Vision-and-Deep-Learning/Optimised%20Project/model/person-detection-0202/FP16-INT8). The Model Used is person-detection-0202 from OpenVINO.
