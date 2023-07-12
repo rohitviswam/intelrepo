@@ -5,7 +5,7 @@ This is a dashboard for monitoring one meter social distancing for outdoor areas
 
 
 <p align="center">
-  <img src="https://github.com/rohitviswam/Intel_unnati_Social-Distancing/blob/main/Optimised%20Project/sample_nobbox.gif">
+  <img src="https://github.com/rohitviswam/intelrepo/blob/main/rohit_MITmanipal_Social-Distancing-project-using-Computer-Vision-and-Deep-Learning/Optimised%20Project/sample_nobbox.gif">
 </p>
 
 ## Installation
@@ -63,5 +63,5 @@ optional arguments:
 With Bounding Boxes for Visualization
 
 <p align="center">
-  <img src="https://github.com/rohitviswam/Intel_unnati_Social-Distancing/blob/main/Optimised%20Project/sample_bbox.gif">
+  <img src="https://github.com/rohitviswam/intelrepo/blob/main/rohit_MITmanipal_Social-Distancing-project-using-Computer-Vision-and-Deep-Learning/Optimised%20Project/sample_bbox.gif">
 </p>
