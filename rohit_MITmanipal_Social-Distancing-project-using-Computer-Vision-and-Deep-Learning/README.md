@@ -8,5 +8,5 @@ Social Distancing project using Computer Vision and Deep Learning
 ![Output avi gif](https://github.com/rohitviswam/intelrepo/blob/main/rohit_MITmanipal_Social-Distancing-project-using-Computer-Vision-and-Deep-Learning/Social%20Distancing%20Project/outputs/ped_walkoutput.gif)
 
 ### The output obtained using OpenVINO Optimisation is :
-![Output avi gif](https://github.com/rohitviswam/intelrepo/blob/main/rohit_MITmanipal_Social-Distancing-project-using-Computer-Vision-and-Deep-Learning/Optimised%20Project/sample_bbox.gif)
+![Output avi gif](https://github.com/rohitviswam/intelrepo/blob/main/rohit_MITmanipal_Social-Distancing-project-using-Computer-Vision-and-Deep-Learning/Optimised%20Project/outputs/sample_bbox.gif)
 
