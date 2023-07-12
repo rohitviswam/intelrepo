@@ -27,4 +27,4 @@ Social Distancing project using Computer Vision and Deep Learning
 ![Output avi gif](https://github.com/rohitviswam/Intel_unnati_Social-Distancing/blob/main/Social%20Distancing%20Project/outputs/ped_walkoutput.gif)
 
 ### Output File 3 :
-![Output avi gif]()
+![Output avi gif](https://github.com/rohitviswam/Intel_unnati_Social-Distancing/blob/main/Social%20Distancing%20Project/outputs/pedestriansoutput.gif)
