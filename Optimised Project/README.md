@@ -63,10 +63,5 @@ optional arguments:
 With Bounding Boxes for Visualization
 
 <p align="center">
-  <img src="https://github.com/tharakarehan/social-distancing-tracker/blob/main/sample_bbox.gif">
+  <img src="https://github.com/rohitviswam/Intel_unnati_Social-Distancing/blob/main/Optimised%20Project/sample_bbox.gif">
 </p>
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
