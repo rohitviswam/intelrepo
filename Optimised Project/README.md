@@ -5,7 +5,7 @@ This is a dashboard for monitoring one meter social distancing for outdoor areas
 
 
 <p align="center">
-  <img src="https://github.com/tharakarehan/social-distancing-tracker/blob/main/sample_nobbox.gif">
+  <img src="https://github.com/rohitviswam/Intel_unnati_Social-Distancing/blob/main/Optimised%20Project/sample_nobbox.gif">
 </p>
 
 ## Installation
