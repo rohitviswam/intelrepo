@@ -10,7 +10,7 @@ Social Distancing project using Computer Vision and Deep Learning
 ## To run this code in your terminal:
 * **Open your terminal**
 * ***Change directory to where you have downloaded this code***
-* ***Install python3 if you have not, if installed already then it's ok!***
+* ***Install python if you have not, if installed already then it's ok!***
 * ***Install all the below depedencies,You will need the following to run this code:***
   
   ***Python,Cython,imutils,numpy,opencv-python,Pillow,PyYAML,six,torch,torchvision***
